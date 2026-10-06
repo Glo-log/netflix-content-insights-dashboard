@@ -32,25 +32,25 @@ The main objectives of this project were to:
 
 The dashboard provides key metrics including total titles, Movies, TV Shows, and the most common audience rating.
 
-### Content Analysis
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
-The dashboard visualizes:
+### Global Content Analysis
 
-* Netflix Content Distribution
-* Content by Release Year
-* Top 10 Countries by Number of Titles
-* Top 10 Netflix Genres
-* Ratings Distribution by Content Type
+The dashboard explores the distribution of Netflix titles across countries and genres.
 
-### Interactive Filters
+![Global Content Analysis](screenshots/global_content.png)
 
-Users can filter the dashboard by:
+### Audience Ratings & Insights
 
-* Content type
-* Audience rating
-* Release period
+The dashboard compares audience ratings across Movies and TV Shows and summarizes the main findings.
 
-The visualizations and key metrics update according to the selected filters.
+![Ratings and Insights](screenshots/ratings_insights.png)
+
+### Interactive Filtering
+
+Users can filter the dashboard by content type, audience rating, and release period.
+
+![Interactive Filters](screenshots/filters_demo.png)
 
 ## Key Insights
 
